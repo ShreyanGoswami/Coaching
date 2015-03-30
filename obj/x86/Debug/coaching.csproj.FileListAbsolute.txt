@@ -1,0 +1,18 @@
+D:\Tanisha\coaching\bin\Debug\coaching.exe
+D:\Tanisha\coaching\bin\Debug\coaching.pdb
+D:\Tanisha\coaching\obj\x86\Debug\coaching.Form1.resources
+D:\Tanisha\coaching\obj\x86\Debug\coaching.Properties.Resources.resources
+D:\Tanisha\coaching\obj\x86\Debug\coaching.csproj.GenerateResource.Cache
+D:\Tanisha\coaching\obj\x86\Debug\coaching.exe
+D:\Tanisha\coaching\obj\x86\Debug\coaching.pdb
+H:\coaching\obj\x86\Debug\coaching.exe
+H:\coaching\obj\x86\Debug\coaching.pdb
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\coaching.exe
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\coaching.pdb
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\coaching.Form1.resources
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\coaching.Form2.resources
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\coaching.Properties.Resources.resources
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\coaching.csproj.GenerateResource.Cache
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\bin\Debug\coaching.exe.config
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\bin\Debug\coaching.exe
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\bin\Debug\coaching.pdb
