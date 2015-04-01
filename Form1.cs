@@ -38,19 +38,30 @@ namespace coaching
                 {
                     case 'S':
                        // MessageBox.Show("Login success");
-                        Form2 f2=new Form2();
+                        String id = name.Substring(1);
+                        Form2 f2=new Form2(id);
                         f2.Show();
-                        this.Hide();
-                        this.Show();
                         break;
 
                     case 'T':
                         //load teacher form
                         break;
+                    
                 }
             }
             else
                 MessageBox.Show("Invalid login");
+            
+        }
+
+        private void username_TextChanged(object sender, EventArgs e)
+        {
+            username.Text = "S1234";
+        }
+
+        private void password_TextChanged(object sender, EventArgs e)
+        {
+            password.Text = "1234";
         }
         
     }

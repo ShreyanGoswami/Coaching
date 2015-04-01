@@ -37,7 +37,7 @@
             this.contact = new System.Windows.Forms.Label();
             this.dob = new System.Windows.Forms.Label();
             this.address = new System.Windows.Forms.Label();
-            this.id = new System.Windows.Forms.Label();
+            this.ID = new System.Windows.Forms.Label();
             this.name = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
@@ -54,9 +54,7 @@
             this.paid = new System.Windows.Forms.Label();
             this.price = new System.Windows.Forms.Label();
             this.cours = new System.Windows.Forms.Label();
-            this.cont = new System.Windows.Forms.Label();
             this.f_id = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
@@ -79,6 +77,8 @@
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.button1 = new System.Windows.Forms.Button();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.label15 = new System.Windows.Forms.Label();
+            this.cont = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -108,7 +108,7 @@
             this.tabPage1.Controls.Add(this.contact);
             this.tabPage1.Controls.Add(this.dob);
             this.tabPage1.Controls.Add(this.address);
-            this.tabPage1.Controls.Add(this.id);
+            this.tabPage1.Controls.Add(this.ID);
             this.tabPage1.Controls.Add(this.name);
             this.tabPage1.Controls.Add(this.label9);
             this.tabPage1.Controls.Add(this.label8);
@@ -181,14 +181,14 @@
             this.address.TabIndex = 11;
             this.address.Text = "label10";
             // 
-            // id
+            // ID
             // 
-            this.id.AutoSize = true;
-            this.id.Location = new System.Drawing.Point(247, 81);
-            this.id.Name = "id";
-            this.id.Size = new System.Drawing.Size(41, 13);
-            this.id.TabIndex = 10;
-            this.id.Text = "label10";
+            this.ID.AutoSize = true;
+            this.ID.Location = new System.Drawing.Point(247, 81);
+            this.ID.Name = "ID";
+            this.ID.Size = new System.Drawing.Size(41, 13);
+            this.ID.TabIndex = 10;
+            this.ID.Text = "label10";
             // 
             // name
             // 
@@ -358,15 +358,6 @@
             this.cours.TabIndex = 13;
             this.cours.Text = "label10";
             // 
-            // cont
-            // 
-            this.cont.AutoSize = true;
-            this.cont.Location = new System.Drawing.Point(192, 165);
-            this.cont.Name = "cont";
-            this.cont.Size = new System.Drawing.Size(41, 13);
-            this.cont.TabIndex = 12;
-            this.cont.Text = "label10";
-            // 
             // f_id
             // 
             this.f_id.AutoSize = true;
@@ -375,16 +366,6 @@
             this.f_id.Size = new System.Drawing.Size(41, 13);
             this.f_id.TabIndex = 11;
             this.f_id.Text = "label10";
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(60, 165);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(69, 13);
-            this.label15.TabIndex = 6;
-            this.label15.Text = "CONTACT:";
             // 
             // label14
             // 
@@ -473,7 +454,6 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(738, 392);
             this.dataGridView1.TabIndex = 0;
-            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // DAY
             // 
@@ -573,6 +553,25 @@
             this.progressBar1.Size = new System.Drawing.Size(155, 24);
             this.progressBar1.TabIndex = 2;
             // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label15.Location = new System.Drawing.Point(60, 165);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(69, 13);
+            this.label15.TabIndex = 6;
+            this.label15.Text = "CONTACT:";
+            // 
+            // cont
+            // 
+            this.cont.AutoSize = true;
+            this.cont.Location = new System.Drawing.Point(192, 165);
+            this.cont.Name = "cont";
+            this.cont.Size = new System.Drawing.Size(41, 13);
+            this.cont.TabIndex = 12;
+            this.cont.Text = "label10";
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -607,7 +606,7 @@
         private System.Windows.Forms.Label contact;
         private System.Windows.Forms.Label dob;
         private System.Windows.Forms.Label address;
-        private System.Windows.Forms.Label id;
+        private System.Windows.Forms.Label ID;
         private System.Windows.Forms.Label name;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
@@ -627,9 +626,7 @@
         private System.Windows.Forms.Label paid;
         private System.Windows.Forms.Label price;
         private System.Windows.Forms.Label cours;
-        private System.Windows.Forms.Label cont;
         private System.Windows.Forms.Label f_id;
-        private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label12;
@@ -649,5 +646,7 @@
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.Label cont;
+        private System.Windows.Forms.Label label15;
     }
 }
