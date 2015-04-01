@@ -1,0 +1,35 @@
+D:\Tanisha\coaching\bin\Debug\coaching.exe
+D:\Tanisha\coaching\bin\Debug\coaching.pdb
+D:\Tanisha\coaching\obj\x86\Debug\coaching.Form1.resources
+D:\Tanisha\coaching\obj\x86\Debug\coaching.Properties.Resources.resources
+D:\Tanisha\coaching\obj\x86\Debug\coaching.csproj.GenerateResource.Cache
+D:\Tanisha\coaching\obj\x86\Debug\coaching.exe
+D:\Tanisha\coaching\obj\x86\Debug\coaching.pdb
+H:\coaching\obj\x86\Debug\coaching.exe
+H:\coaching\obj\x86\Debug\coaching.pdb
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\coaching.exe
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\coaching.pdb
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\coaching.Form1.resources
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\coaching.Form2.resources
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\coaching.Properties.Resources.resources
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\coaching.csproj.GenerateResource.Cache
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\bin\Debug\coaching.exe.config
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\bin\Debug\coaching.exe
+C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\bin\Debug\coaching.pdb
+D:\TestClone\Coaching-master\bin\Debug\coaching.exe.config
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.exe
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.pdb
+D:\TestClone\Coaching-master\bin\Debug\coaching.exe
+D:\TestClone\Coaching-master\bin\Debug\coaching.pdb
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.csprojResolveAssemblyReference.cache
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Form1.resources
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Form2.resources
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Form3.resources
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Form4.resources
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Form5.resources
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Form6.resources
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Form7.resources
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Form8.resources
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Form9.resources
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Properties.Resources.resources
+D:\TestClone\Coaching-master\obj\x86\Debug\coaching.csproj.GenerateResource.Cache
