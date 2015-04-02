@@ -16,6 +16,7 @@ C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\obj\x86\Debug\co
 C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\bin\Debug\coaching.exe.config
 C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\bin\Debug\coaching.exe
 C:\Users\Shreyan\Documents\Visual Studio 2010\Projects\coaching\bin\Debug\coaching.pdb
+<<<<<<< HEAD
 D:\TestClone\Coaching-master\bin\Debug\coaching.exe.config
 D:\TestClone\Coaching-master\obj\x86\Debug\coaching.exe
 D:\TestClone\Coaching-master\obj\x86\Debug\coaching.pdb
@@ -33,3 +34,5 @@ D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Form8.resources
 D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Form9.resources
 D:\TestClone\Coaching-master\obj\x86\Debug\coaching.Properties.Resources.resources
 D:\TestClone\Coaching-master\obj\x86\Debug\coaching.csproj.GenerateResource.Cache
+=======
+>>>>>>> deff6e367b75c4e3e8c4a8c0bc8c82d5dcdb0d39
